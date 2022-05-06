@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Pulsar - Original';
+    src: url('PulsarOriginalRegular.eot');
+    src: url('PulsarOriginalRegular.eot?#iefix') format('embedded-opentype'),
+        url('PulsarOriginalRegular.woff2') format('woff2'),
+        url('PulsarOriginalRegular.woff') format('woff'),
+        url('PulsarOriginalRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

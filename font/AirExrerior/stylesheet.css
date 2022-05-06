@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Aire Exterior';
+    src: url('AireExterior.eot');
+    src: url('AireExterior.eot?#iefix') format('embedded-opentype'),
+        url('AireExterior.woff2') format('woff2'),
+        url('AireExterior.woff') format('woff'),
+        url('AireExterior.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
